@@ -1,0 +1,48 @@
+#mainTitle {
+  font-weight: bold;
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 225px;
+}
+
+body {
+background-image: url("../images/Background-website-01.jpeg");
+background-size: cover;
+}
+#portfolioButton{
+  margin: 0;
+  position: absolute;
+  top: 725px;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+#intro{
+  text-align: center;
+  margin-top: 400px;
+  font-weight: bolder;
+}
+#me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 20%;
+  height: auto;
+  border-radius: 50%;
+}
+#AboutMeHeader{
+  text-align: center;
+}
+#linkedin{
+  width: 30px;
+  height: auto;
+}
+#github{
+  width: 30px;
+  height: auto;
+}
+#nico{
+  width: 450px;
+  height: auto;
+}
